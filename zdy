@@ -1,0 +1,5 @@
+# 匹配域名关键字（DOMAIN-KEYWORD,google）
+DOMAIN-KEYWORD,google
+
+# 匹配域名后缀（DOMAIN-SUFFIX,google.com）
+DOMAIN-SUFFIX,afeinet.blogspot.com
