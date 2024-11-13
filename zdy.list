@@ -3,3 +3,4 @@ DOMAIN-KEYWORD,google
 
 # 匹配域名后缀（DOMAIN-SUFFIX,google.com）
 DOMAIN-SUFFIX,afeinet.blogspot.com
+DOMAIN-SUFFIX,v2.hysteria.network
