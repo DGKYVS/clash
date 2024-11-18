@@ -7,7 +7,6 @@ ruleset=🚀 节点选择,FINAL
 
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择,DIRECT
 custom_proxy_group=✨ AI`select`[]♻️ 自动选择,DIRECT
-custom_proxy_group=🎥 奈飞`select`[]♻️ 自动选择,DIRECT
 custom_proxy_group=♻️ 自动选择`url-test`[]DIRECT`http://www.gstatic.com/generate_204`500,5
 
 enable_rule_generator=true
