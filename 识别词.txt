@@ -1,3 +1,8 @@
 # 自定义识别词
 \[VCB-Studio\] K\-ON\!\! \[URA-ON\! => 轻音少女\[
 \[VCB-Studio\] K\-ON\! \[URA-ON\! => 轻音少女\[
+#我的青春恋爱物语果然有问题。（VCB）
+Yahari Ore no Seishun Lovecome wa Machigatte Iru. \[OVA\] => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S00E01
+Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku \[OVA\] => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S00E02
+Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S02
+Oregairu Kan => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S03
