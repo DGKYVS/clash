@@ -5,6 +5,7 @@ DOMAIN,gazellegames.net
 DOMAIN,piggo.me
 DOMAIN,bytevirt.com
 DOMAIN,bbs.acgrip.com
+DOMAIN,assets1.xboxlive.com
 ##DOMAIN-KEYWORD,3xui.05888888.xyz
 ##DOMAIN-KEYWORD,05888888.xyz
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
