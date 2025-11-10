@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,ddns.05888888.xyz
 DOMAIN-KEYWORD,steamcontent.com
 DOMAIN,hhanclub.top
 DOMAIN,sunnypt.top
+DOMAIN,raingfh.top
+DOMAIN,ptchina.org
+DOMAIN,qingwapt.com
+DOMAIN,cspt.top
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
 ##- DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
