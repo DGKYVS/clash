@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,starrails.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,hanime1.me
+DOMAIN-KEYWORD,wutheringwaves
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
 ##- DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
