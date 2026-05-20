@@ -19,7 +19,9 @@ DOMAIN,api.hwnovel.com
 DOMAIN,my.xfltd.org
 DOMAIN-KEYWORD,bluestacks
 DOMAIN-KEYWORD,sbside
-DOMAIN-KEYWORD,sf6.streetfighter.com
+DOMAIN-SUFFIX,streetfighter.com
+DOMAIN-SUFFIX,capcom.com
+DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,beyond.hg-cdn.com
 DOMAIN,autopatchos.starrails.com
 DOMAIN-SUFFIX,ggst-game.guiltygear.com
