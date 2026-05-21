@@ -1,11 +1,6 @@
 SRC-IP-CIDR,10.0.0.151/32
 SRC-IP-CIDR,10.0.0.152/32
 SRC-IP-CIDR,10.0.0.153/32
-DOMAIN,licensing.mp.microsoft.com
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,xbox
-DST-PORT,3544
-DOMAIN-SUFFIX,ipv6.microsoft.com
 DOMAIN,gazellegames.net
 DOMAIN,piggo.me
 DOMAIN,bytevirt.com
@@ -29,11 +24,6 @@ DOMAIN-SUFFIX,capcom.com
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,beyond.hg-cdn.com
 DOMAIN,autopatchos.starrails.com
-DOMAIN-SUFFIX,ggst-game.guiltygear.com
-DOMAIN-SUFFIX,guiltygear.com
-DOMAIN-SUFFIX,arcsystemworks.com
-DOMAIN-SUFFIX,arcsystemworks.jp
-DOMAIN-SUFFIX,ratingupdate.info
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
 ##- DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
