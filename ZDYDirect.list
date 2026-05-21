@@ -4,8 +4,8 @@ SRC-IP-CIDR,10.0.0.153/32
 DOMAIN,licensing.mp.microsoft.com
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,xbox
-URL-REGEX,(.*)\.ipv6\.microsoft\.com
-UDP,PORT,3544
+DST-PORT,3544
+DOMAIN-SUFFIX,ipv6.microsoft.com
 DOMAIN,gazellegames.net
 DOMAIN,piggo.me
 DOMAIN,bytevirt.com
