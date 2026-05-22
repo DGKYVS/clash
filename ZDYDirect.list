@@ -19,9 +19,6 @@ DOMAIN,api.hwnovel.com
 DOMAIN,my.xfltd.org
 DOMAIN-KEYWORD,bluestacks
 DOMAIN-KEYWORD,sbside
-DOMAIN-SUFFIX,streetfighter.com
-DOMAIN-SUFFIX,capcom.com
-DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,beyond.hg-cdn.com
 DOMAIN,autopatchos.starrails.com
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
