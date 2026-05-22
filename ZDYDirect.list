@@ -17,7 +17,6 @@ DOMAIN,time.windows.com
 DOMAIN,img.ciyuanji.com
 DOMAIN,api.hwnovel.com
 DOMAIN,my.xfltd.org
-DOMAIN-KEYWORD,sbside
 DOMAIN-SUFFIX,beyond.hg-cdn.com
 DOMAIN,autopatchos.starrails.com
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
