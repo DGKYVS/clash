@@ -19,23 +19,6 @@ DOMAIN,api.hwnovel.com
 DOMAIN,my.xfltd.org
 DOMAIN-SUFFIX,beyond.hg-cdn.com
 DOMAIN,autopatchos.starrails.com
-# 游戏 P2P 与联机端口精准匹配（一整档均走直连）
-# ==========================================
-# 1. 格斗游戏等对战常用的 P2P 源端口与目标端口（解决对战连接失败）
-DST-PORT,88
-DST-PORT,500
-DST-PORT,3544
-DST-PORT,4500
-DST-PORT,3478
-SRC-PORT,3074
-DST-PORT,3074
-SRC-PORT,7770-7780
-DST-PORT,7770-7780
-# 2. 强制放行所有联机高端口 UDP/TCP 握手（格斗游戏匹配关键）
-DST-PORT,50000-65535
-DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,xboxservices.com
-DOMAIN-SUFFIX,microsoft.com
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
 ##- DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
