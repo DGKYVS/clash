@@ -1,9 +1,4 @@
 # 自定义识别词
-#我的青春恋爱物语果然有问题。（VCB）
-Yahari Ore no Seishun Lovecome wa Machigatte Iru. \[OVA\] => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S00E01
-Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku \[OVA\] => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S00E02
-Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S02
-Oregairu Kan => Yahari Ore no Seishun Lovecome wa Machigatte Iru. S03
 \[Movie\]
 AnimeF@ADE => ADE
 episode\.\d{1}
